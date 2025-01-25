@@ -68,7 +68,6 @@ The model is designed to learn from the augmented images and predict the locatio
 .
 ├── data/                          # Dataset files
 │   ├── location.csv               # Training locations
-│   ├── sample_submission.csv      # Test file for predictions
 │   ├── train_images/              # Training images
 │   └── test_images/               # Test images
 ├── models/                        # Trained models
